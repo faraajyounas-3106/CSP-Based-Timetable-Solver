@@ -26,8 +26,3 @@ The system can:
 | Instance Generator                   | ✅ Complete | Controllable difficulty                |
 | Bonus GUI (Search Animation + Grid)  | ✅ Complete | Tkinter + Matplotlib                   |
 
----
-
-### File Structure
-
-Only the following files are submitted for **Question 1**:
