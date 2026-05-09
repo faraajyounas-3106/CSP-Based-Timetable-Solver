@@ -1,11 +1,8 @@
-# AI2002 - Assignment 02 (Question 1)
 ## University Course Timetabling using Constraint Satisfaction Problems (CSP)
 
-**Course:** AI2002 - Artificial Intelligence  
+**Course:** Artificial Intelligence  
 **Semester:** Spring 2026  
-**Assignment:** 02 (Q1 - 100 marks)  
 **Submitted by:** Faraaj Younas
-**Roll Number:** 24i-0749
 
 ---
 
