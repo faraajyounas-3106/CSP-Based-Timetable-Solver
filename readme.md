@@ -1,9 +1,4 @@
 ## University Course Timetabling using Constraint Satisfaction Problems (CSP)
-
-**Course:** Artificial Intelligence  
-**Semester:** Spring 2026  
-**Submitted by:** Faraaj Younas
-
 ---
 
 ### Overview
